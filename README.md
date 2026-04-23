@@ -124,4 +124,8 @@ Dataset sourced from Kaggle:
 
 🔗 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
 
-> Note: The dataset is synthetic and designed to simulate real-world financial transactions 
+> Note: The dataset is synthetic and designed to simulate real-world financial transactions
+---
+## 👤 Author
+
+Developed by Jana Alfalah
