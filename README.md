@@ -60,7 +60,7 @@ Before modeling, the dataset was analyzed to uncover patterns and better underst
 - High **recall** is critical to avoid missing fraudulent transactions
 
 ---
-## Machine Learning Model
+## ⚡️ Machine Learning Model
 
 - Algorithm: **Logistic Regression**
 - Built using **Scikit-learn Pipeline**
@@ -70,7 +70,7 @@ Before modeling, the dataset was analyzed to uncover patterns and better underst
   - Balanced class weights to handle imbalance
 
 ---
-## Imbalanced Data Handling
+## ‼️ Imbalanced Data Handling
 Fraud detection datasets are highly imbalanced:
 
 - Most transactions are legitimate  
