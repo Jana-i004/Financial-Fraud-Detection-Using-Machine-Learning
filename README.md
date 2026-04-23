@@ -98,7 +98,8 @@ An interactive **Streamlit app** allows users to:
 - Simulate real-world scenarios  
 - Get instant fraud risk predictions  
 
-### 🔗 App
+### 🔗 Try the App :
+https://financial-fraud-detection-using-machine-learning-8trvzbq7gf9u3.streamlit.app/
 
 
 ---
