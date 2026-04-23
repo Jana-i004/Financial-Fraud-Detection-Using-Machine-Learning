@@ -120,8 +120,11 @@ An interactive **Streamlit app** allows users to:
 
 ## 📸 App Preview
 
-![Low Risk](images/low_risk.png)
-![High Risk](images/high_risk.png)
+<img width="1981" height="1864" alt="image (2)" src="https://github.com/user-attachments/assets/5462bd0b-7ad0-4364-9fbe-2a09d5a3e62f" />
+
+<img width="1987" height="1958" alt="image (1)" src="https://github.com/user-attachments/assets/f7bf2f1c-2d9f-4301-85cb-f9591a57c4b7" />
+
+
 
 ---
 
