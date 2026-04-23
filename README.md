@@ -48,13 +48,11 @@ Before modeling, the dataset was analyzed to uncover patterns and better underst
 
 #### Amount vs Fraud
 
-
-
+<img width="592" height="457" alt="AmountVSFraud" src="https://github.com/user-attachments/assets/102c4cf5-9d4d-46e1-baf2-a75a6aeaa6ef" />
 
 #### Fraud Over Time
 
-
-
+<img width="566" height="457" alt="Fraud Over Time" src="https://github.com/user-attachments/assets/a1f0888b-a10a-4308-889b-dd4e7c591fb0" />
 
 ---
 
