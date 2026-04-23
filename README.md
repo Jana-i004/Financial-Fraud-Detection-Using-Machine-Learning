@@ -44,8 +44,7 @@ Before modeling, the dataset was analyzed to uncover patterns and better underst
 
 #### Transaction Amount Distribution (Log Scale)
 
-
-
+<img width="600" height="457" alt="Transaction Amount (Log Scale)" src="https://github.com/user-attachments/assets/3202f802-07c4-4c8b-951c-e823ba2ff2fe" />
 
 #### Amount vs Fraud
 
