@@ -40,21 +40,21 @@ Before modeling, the dataset was analyzed to uncover patterns and better underst
 
 #### Fraud Rate by Transaction Type
 
-<img width="587" height="526" alt="Fraud Rate by Transaction Type" src="https://github.com/user-attachments/assets/399b9dc7-6fd9-4fc7-850c-fb371b76e21e" />
+<img width="587" height="526" alt="Fraud Rate by Transaction Type" src="https://github.com/user-attachments/assets/27beae99-b794-4985-95db-200c861a2613" />
 
 #### Transaction Amount Distribution (Log Scale)
 
-<img width="600" height="457" alt="Transaction Amount (Log Scale)" src="https://github.com/user-attachments/assets/8edfdcce-ad90-4831-9454-f3d3a1ca3030" />
+
 
 
 #### Amount vs Fraud
 
-<img width="592" height="457" alt="AmountVSFraud" src="https://github.com/user-attachments/assets/ef4128b8-b1a9-42d4-931c-7646decdc38d" />
+
 
 
 #### Fraud Over Time
 
-<img width="566" height="457" alt="Fraud Over Time" src="https://github.com/user-attachments/assets/2e3f6e6b-0528-4848-939c-429a4a1f33ff" />
+
 
 
 ---
