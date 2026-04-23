@@ -5,7 +5,6 @@
 An end-to-end **AI-powered machine learning project** for detecting fraudulent financial transactions, combining data analysis, visualization, and a real-time Streamlit application.
 
 ---
-
 ## 🚀 Project Overview
 
 This project builds a **transaction risk detection system** that identifies potentially fraudulent financial activities using machine learning.
@@ -19,7 +18,6 @@ The workflow includes:
 - 🖥️ Interactive Streamlit Application
 
 ---
-
 ## 🎯 Objective
 
 To predict whether a transaction is likely to be **fraudulent** based on:
@@ -31,7 +29,6 @@ To predict whether a transaction is likely to be **fraudulent** based on:
 - Transaction behavior patterns  
 
 ---
-
 ## 📊 Exploratory Data Analysis
 
 Before modeling, the dataset was analyzed to uncover patterns and better understand fraud behavior.
@@ -55,7 +52,6 @@ Before modeling, the dataset was analyzed to uncover patterns and better underst
 <img width="566" height="457" alt="Fraud Over Time" src="https://github.com/user-attachments/assets/a1f0888b-a10a-4308-889b-dd4e7c591fb0" />
 
 ---
-
 ## 📈 Key Insights
 
 - Fraud is concentrated in specific transaction types (e.g., **TRANSFER, CASH_OUT**)
@@ -64,8 +60,7 @@ Before modeling, the dataset was analyzed to uncover patterns and better underst
 - High **recall** is critical to avoid missing fraudulent transactions
 
 ---
-
-## 🧠 Machine Learning Model
+## Machine Learning Model
 
 - Algorithm: **Logistic Regression**
 - Built using **Scikit-learn Pipeline**
@@ -75,23 +70,18 @@ Before modeling, the dataset was analyzed to uncover patterns and better underst
   - Balanced class weights to handle imbalance
 
 ---
-
-## ⚠️ Imbalanced Data Handling
-
+## Imbalanced Data Handling
 Fraud detection datasets are highly imbalanced:
 
 - Most transactions are legitimate  
 - Fraud cases are rare  
 
-To address this:
-
-- Used `class_weight="balanced"`
+To address this i used :
+-  `class_weight="balanced"`
 - Focused on **Recall, Precision, and F1-score** instead of accuracy
-
-> Detecting fraud is more sensitive to **false negatives** than false positives.
+-  Detecting fraud is more sensitive to **false negatives** than false positives.
 
 ---
-
 ## 📊 Model Performance
 
 Fraud Recall: 94%
@@ -100,7 +90,6 @@ Fraud Precision: 2%
 
 
 ---
-
 ## 🖥️ Application
 
 An interactive **Streamlit app** allows users to:
@@ -109,12 +98,10 @@ An interactive **Streamlit app** allows users to:
 - Simulate real-world scenarios  
 - Get instant fraud risk predictions  
 
-### 🔗 Live App
+### 🔗 App
 
-[ADD YOUR STREAMLIT LINK HERE]
 
 ---
-
 ## 📸 App Preview
 
 <img width="1981" height="1864" alt="image (2)" src="https://github.com/user-attachments/assets/69e8f3f1-6cd7-439e-91b9-8ff37dd4dd9f" />
@@ -124,15 +111,8 @@ An interactive **Streamlit app** allows users to:
 
 
 ---
-
-## 🛠️ Tech Stack
-
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
+## 🛠️ Tech Tools
+- Python (Pandas ,NumPy , Matplotlib , Seaborn , Scikit-learn)  
 - Streamlit  
 - Joblib  
 
@@ -142,8 +122,6 @@ An interactive **Streamlit app** allows users to:
 
 Dataset sourced from Kaggle:
 
-**Fraud Detection Dataset**
-
 🔗 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
 
-> Note: The dataset is synthetic and designed to simulate real-world financial transactions.
+> Note: The dataset is synthetic and designed to simulate real-world financial transactions 
